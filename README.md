@@ -104,4 +104,3 @@ All the `ScrollView`/`ListView` props will be passed.
 ## License
 
 MIT.
-# react-native-keyboard-aware-scroll-view
